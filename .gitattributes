@@ -1,2 +1,5 @@
 *.v linguist-language=Verilog
-*.fs binary
+
+*.fs linguist-vendored
+
+*.cst linguist-vendored
